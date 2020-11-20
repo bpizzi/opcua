@@ -16,10 +16,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/ua"
+	"github.com/bpizzi/opcua"
+	"github.com/bpizzi/opcua/debug"
+	"github.com/bpizzi/opcua/errors"
+	"github.com/bpizzi/opcua/ua"
 
 	"golang.org/x/crypto/ssh/terminal"
 )

@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/ua"
+	"github.com/bpizzi/opcua"
+	"github.com/bpizzi/opcua/debug"
+	"github.com/bpizzi/opcua/ua"
 )
 
 func main() {

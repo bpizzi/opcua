@@ -7,8 +7,8 @@ package uasc
 import (
 	"fmt"
 
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/ua"
+	"github.com/bpizzi/opcua/errors"
+	"github.com/bpizzi/opcua/ua"
 )
 
 // MessageType definitions.

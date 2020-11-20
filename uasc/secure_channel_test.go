@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/ua"
+	"github.com/bpizzi/opcua/id"
+	"github.com/bpizzi/opcua/ua"
 
 	"github.com/pascaldekloe/goe/verify"
 )
